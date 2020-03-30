@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Sevgili Öğrenciler,
 
-You can use the [editor on GitHub](https://github.com/lcgmat114/lcgmat114.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+MAT114 dersi için, her hafta sınıf düzeninde işlenmesi gereken içerikler, daha önce web sayfası üzerinden paylaşılıyordu. 27 Mart Cuma tarihinden itibaren, içerikler, bu içerikleri ilgilendiren uygulama soruları ve çözümleri, çalışma soruları ve diğer materyaller ders için oluşturduğum “google classroom” ortamında paylaşılacaktır. (Hepinizin ogrencino@ogr.msgsu.edu.tr adreslerinize sınıfa katılım davetiyesi gönderildi.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Paylaşılan çalışma sorularını lütfen çözün. Çözemediklerinizi, bana ya da Melissa Özsahakyan Hocanıza e-posta aracılığı ile sorabilirsiniz. Sorularınızı bir kağıdın üzerine yazıp, fotoğrafını çekip e-posta ile gönderebilirsiniz. Ya da google classroom da soru sorma seçeneği varsa, oradan sorabilirsiniz. Yaşanılan belli aksaklıklar nedeniyle skype üzerinden iletişim kurma şansım olmayacak. Sorularınıza ben, Salı günü (15:00-17:00) zaman aralığında ve Perşembe günü (13:00-15:00) zaman aralığında yanıt verebileceğim. Melissa Özsahakyan Cuma günü (15:00-17:00) zaman aralığında sorularınıza yanıt verecek.
 
-### Markdown
+Bir de “google group” uygulamamız olacak. Bu google group listesine gönderdiğim epostaları görebilmeniz için, sizleri listeye eklemem gerekiyor. lcgmat114@gmail.com adresine adınızı, soyadınız, numaranızı yazan bir e-posta atın lütfen. Paylaşılan içerikleri çalışmanız çok çok önemli. Dersler başladığında, içerikleri tekrarlamak için çok kısıtlı zamanımız olabilir. Kısa aralıklarla sınav ve quiz yapmak zorunda kalabiliriz. Quizleri, google classroom uygulamasında da yapabiliriz. Durum netleştiğinde google classroomda bilgi vereceğim.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Döneminizin uzamaması ve zaman kaybetmemeniz için, bir sonraki senenin içerikleri için gerekli olan MAT 114 içeriğini tamamlayabilmemiz için, gerekli yönlendirmeleri ve içerikleri google classroom uygulamasından yapacağım. Sonraki aşamalarda, programlarınızın sıkışmaması için, sınav performanslarınızın iyi olması için lütfen paylaşılan ders içeriklerini(ders notları, çalışma soruları, uygulama soruları) düzenli olarak çalışın. İçerikleri hazırlamak ve sizleri yönlendirmek benim sorumluluğum, içerikleri çalışmak, sorumluluğunuz. Sonraki seneler için MAT114 dersinin içeriğini anlamanız ve çalışmanız çok önemli. Bu bilinçle yaklaşırsanız, doğal olarak sınavlarda başarılı olursunuz.
 
-```markdown
-Syntax highlighted code block
+Matematik, zihni çok meşgul eden muhteşem bir oyundur.
 
-# Header 1
-## Header 2
-### Header 3
+Sevgiler,
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lcgmat114/lcgmat114.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fatma Altunbulak Aksu
